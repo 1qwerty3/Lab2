@@ -1,0 +1,7 @@
+﻿  pch.cpp
+  dllmain.cpp
+  MyDLL.cpp
+  Создание кода...
+C:\Users\user\Desktop\Лаба\Максим\2.3\MyDLL\MyDLL\MyDLL.cpp(8): warning C4172: возвращение адреса локальной или временной переменной : func
+     Создается библиотека C:\Users\user\Desktop\Лаба\Максим\2.3\MyDLL\Debug\MyDLL.lib и объект C:\Users\user\Desktop\Лаба\Максим\2.3\MyDLL\Debug\MyDLL.exp
+  MyDLL.vcxproj -> C:\Users\user\Desktop\Лаба\Максим\2.3\MyDLL\Debug\MyDLL.dll
